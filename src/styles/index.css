@@ -9,3 +9,28 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contain{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.cuadrado{
+    margin-top: 50px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    background-color: red;
+}
+.circulo{
+     margin-top: 50px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 50%;
+
+}
+.light on{
+    background-color: green;
+}
