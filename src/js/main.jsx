@@ -12,7 +12,13 @@ import '../styles/index.css'
 import Home from './components/Home';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+ 
+
+<React.StrictMode>
     <Home/>
-  </React.StrictMode>,
+  </React.StrictMode>
+  
+ 
+
+  
 )
